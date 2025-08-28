@@ -31,6 +31,10 @@ b.) sample space also tree diagram, S = {TT, TH, HT, HH}
 a.) Random exp? YES
 b.) S = { EO, EEO, EEEO, ... }
     S = { OE, OOE, OOOE ... } different subset
+- we have inifitely many we know what follow the pattern
+- as a result this is a countable sample space, 
+- if you can associate counting numbers to your element, then you have a countint number associated with it, then it is countable
+- likewise {0.5, 1.5, 2.5, 3.5 .... } since we can associate counting numbers, it is countable
 
 8.) How about selecting 10 students from class and observe # of siblings.
 a.) Random Exp? YES
@@ -47,5 +51,66 @@ C.) Which sample spaces in B is not countable
 r = n/m the rational relationship
 i != m/n irrational relationship is not countable
 - The set of numbers in the interval from a to b is not countable
+
+
+II.) EVENTS
+
+A. Definitions
+
+1.) An event is a subset of the sample space (S)  <-- why events
+    - denoted A, B, C ...
+
+-Can two outcomes occur at the same time> NO, because the experiment produces only one outcome.
+Is the empty set an event? Justify, Yes, because the null or empty set is a subset of any set, including s.
+
+2.) The complement of event A, A bar is an even containing elements of S that are not in event A.
+
+3.) The intersection of events A and B, A intersect B, is an event or A AND B, is an event containing elements of S that are in both A and B.
+
+4.) The union of events A and B, A UNION B, is an event containing elements of S that are in either in A or in B, or in both.
+The UNION also can mean OR
+
+5.) Events A and B are mutually exclusive (or disjoing) if
+A disjoint B = empty set null
+
+6.) A and B are exhaustive events, if A Union B = S.
+
+7.) Exhaustive + Mututally Exclusive = Complimentary
+
+B.) EXAMPLES
+
+1.) Die Example, Roll a siz-sided die and observe number on top
+
+A = ">=" = {4,5,6]
+
+B = "even" = { 2, 4, 6 }
+
+C = "odd" = { 1, 3, 5 }
+
+D = "getting siz" = { 6 }
+
+E = "getting seven" = { } = empty set
+
+
+S = 
+
+- A Bar = { 1, 2, 3 }
+- B Bar = { C } 
+- E Bar = S, the compliment of the emty set is the sample space
+
+- A Interect B = { 4, 6 }
+- A Union B = { 4, 5, 6}
+- B union D = {  }
+
+- Note 1 S has distinct elements
+- Note 2 any event = subset of s also has distinct elements
+
+c.) Contract relationship between B and C and that between D and C
+
+For B and C = Complimentary
+and for D and C = Mutually Exclusive
+
+
+
 
 
