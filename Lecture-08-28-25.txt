@@ -1,0 +1,51 @@
+Ch. 1 Probability
+
+I. Random Experiment and Sample Space ( Section 1.1)
+
+- Sample Space, S , is the set of all possible outcomes of the experiment
+
+- Coin Example, toss a coin once, and observe result
+a.) Random Experiment - YES
+b.) sample space S = { H, T}  <-- Countable
+
+- Die Example
+a.) Random exp? YES
+b.) S = [1,2,3,4,5,6}  <-- Countable
+
+- Grade Example
+a.) Random Exp? YES 
+b.) S = {A, B, C, D, F}  <-- Countable
+
+
+- Coke Example
+a.) Random Exp? 
+b.) S = { w }  w - is a possible example in the sample space, w is bounded by, S = {w, 0 <= w <= 12}
+- This is an uncountable sample space
+
+- Tossing a coin twice
+a.) random exp? Yes
+b.) sample space also tree diagram, S = {TT, TH, HT, HH}
+
+
+7.) Keep rolling dice, until you get both odd numbers
+a.) Random exp? YES
+b.) S = { EO, EEO, EEEO, ... }
+    S = { OE, OOE, OOOE ... } different subset
+
+8.) How about selecting 10 students from class and observe # of siblings.
+a.) Random Exp? YES
+b.) one element: {1,1,2,2,3,3,4,4,5,5}
+
+- Sample space is countable or uncountable
+- if the set of items in sample space, is finite, then we have countable # of elements
+- A sample space is a countable sample space if its set of outcomes is either finite or countable infinite
+
+C.) Which sample spaces in B is not countable 
+
+
+- if we have some interval like (a, b), or (9, 12) like the coke can
+r = n/m the rational relationship
+i != m/n irrational relationship is not countable
+- The set of numbers in the interval from a to b is not countable
+
+
