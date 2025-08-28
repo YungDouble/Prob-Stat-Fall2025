@@ -111,6 +111,51 @@ For B and C = Complimentary
 and for D and C = Mutually Exclusive
 
 
+b.) Determine S = { A, B, C, D, F, } grade after semester
+G = "Passing" = { A, B, C }
+H = "failing" = { D, F }
+K = "at most a B" = {B, C, D, F}
+
+G Bar = H
+G intersect K = {B, C}
+G union K, passing but at most a B = S
+
+c.) describe the relationship between g and H using 3 words
+Complimentary, mutually, excluive, exhaustive, (when you take the union you get sample space)
+
+3.) Absense Example
+- A = "missing at least one class" = { 1, 2 ,3, ..., 30 }
+-B = "missint at most 10 classes" = { 0, 1, 2, ..., 10 }
+
+Determine
+
+- A Bar = "none" = {0}
+- A intersect B = {1,2, 3 .. 10}
+- A Bar UNION B Bar = B Bar = {11, 12, 13, ..., 30}
 
 
+C. De Morgans
 
+A Union B = A bar intersect B bar means neither A nor B
+A untion B = either a or B
+
+- A bar intersect B Bar   means not both
+A intersect = both A and B
+
+Let A = Yes and B = CS
+
+Sample Space = { s1, s2, s100 }
+- Determine the number of students in the following events:  n(A) = # elements in A
+- A: n(A) = 50 
+- B: n(B) = 35
+- A intersect B n(A interset B) = 20
+- A union B: n(A union B) = 65
+
+- A bar intersect B bar = A bar union B bar = 35
+- A bar union B bar = a bar and b bar = 80
+
+
+The probability that event A occurs, P(A) is a set function assigning a real number in [0,1] to event A. 
+-Input: is a set, is an event
+
+-Output: the number of functions assigned to the event, a real number between 0 and 1
